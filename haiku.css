@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */		
+body {
+	background-color: powderblue;
+	/*background-image: url(map1.PNG);*/
+}
+h1 	{
+	color: steelblue;
+    font-family: verdana;
+    font-size: 48px;}
+h2 	{
+	color: cadetblue;
+    font-family: times;
+    font-size: 500px;}
+h3 	{
+	color: #995552;
+    font-family: verdana;
+    font-size: 30px;}
+h4 	{
+	color: slategray;
+    font-family: georgia;
+    font-size: 24px;}
+ h5 	{
+	color: maroon;
+    font-family: verdana;
+    font-size: 24px;}
+p    {
+	font-size: 18px; 
+	line-height: 22px; 
+	font-style: italic; 
+	text-align: left;
+	color: #FFF;} 
+p.small {
+	font-size: 12px; 
+	line-height: 14px;
+	font-style: normal;}	
+
+span.links {
+    color: #FFF;
+
+}
